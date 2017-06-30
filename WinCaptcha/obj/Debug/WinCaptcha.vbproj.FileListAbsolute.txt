@@ -1,0 +1,22 @@
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\bin\Debug\WinCaptcha.exe.config
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\bin\Debug\WinCaptcha.exe
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\bin\Debug\WinCaptcha.pdb
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\bin\Debug\WinCaptcha.xml
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.vbprojResolveAssemblyReference.cache
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.Resources.resources
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.vbproj.GenerateResource.Cache
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.exe
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.xml
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.pdb
+\\bioreference-laboratories.com\san\brlistaff\pchandradas8836\My Documents\Visual Studio 2017\Projects\Captcha\WinCaptcha\obj\Debug\WinCaptcha.Captcha.resources
+C:\Pratap\Learn\WinCaptcha\bin\Debug\WinCaptcha.exe.config
+C:\Pratap\Learn\WinCaptcha\bin\Debug\WinCaptcha.exe
+C:\Pratap\Learn\WinCaptcha\bin\Debug\WinCaptcha.pdb
+C:\Pratap\Learn\WinCaptcha\bin\Debug\WinCaptcha.xml
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.vbprojResolveAssemblyReference.cache
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.Captcha.resources
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.Resources.resources
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.vbproj.GenerateResource.Cache
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.exe
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.xml
+C:\Pratap\Learn\WinCaptcha\obj\Debug\WinCaptcha.pdb
